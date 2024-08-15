@@ -45,5 +45,5 @@
             onAction="#onGenerateBtnClick"/>
 
     <Label fx:id="generalErrorMsg"/>
-    <Label alignment="BOTTOM_RIGHT" layoutX="289.0" layoutY="304.0" text="T.Huynh   v1.0.0-SNAPSHOT" textAlignment="CENTER"/>
+    <Label alignment="BOTTOM_RIGHT" layoutX="289.0" layoutY="304.0" text="T.Huynh   v1.0.1" textAlignment="CENTER"/>
 </VBox>
